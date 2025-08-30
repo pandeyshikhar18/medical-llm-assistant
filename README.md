@@ -9,10 +9,10 @@ It helps researchers, students, and healthcare professionals quickly find releva
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](https://github.com/pandeyshikhar18/medical-llm-assistant/data/dashboard.png)
+![Dashboard Overview](https://github.com/pandeyshikhar18/medical-llm-assistant/blob/main/data/dashboard.png)
 
 ### Evaluation Results
-![Evaluation Results](https://github.com/pandeyshikhar18/medical-llm-assistant/blob/main/sc2.png)
+![Evaluation Results](https://github.com/pandeyshikhar18/medical-llm-assistant/blob/main/data/eval.png)
 
 ---
 
@@ -132,4 +132,5 @@ Add user authentication for secure access.
 👨‍💻 Author
 Shikhar Pandey
 🔗 GitHub: pandeyshikhar18
+
 
